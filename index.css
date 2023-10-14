@@ -1,0 +1,103 @@
+
+body {
+
+        margin: 90px;
+        background-color: #fff;
+}
+
+
+
+div {
+
+        height: 100px;
+        width: 100px;
+        background-color: aquamarine;
+        border: 1px solid black;
+}
+
+.one {
+
+        position: absolute;
+}
+
+
+.two {
+
+        position: absolute;
+        left: 190px;
+        top: 90px;
+}
+
+.three {
+
+
+     position: absolute;
+     left: 291px;
+     top: 90px;
+}
+
+.four {
+
+
+        position: absolute;
+        top: 190px;
+}
+
+.five {
+
+        position: absolute;
+        top: 291px;
+}
+
+.six {
+
+        position: absolute;
+        left: 191px;
+        top: 291px;
+}
+
+.seven {
+
+        position: absolute;
+        left: 291px;
+        top: 291px;
+}
+
+.eight {
+
+       position: absolute;
+       top: 391px;
+}
+
+.nine {
+
+        position: absolute;
+        top: 492px;
+}
+
+.ten {
+
+        position: absolute;
+        left: 190px;
+        top: 492px;
+}
+
+.eleven {
+
+        position: absolute;
+        left: 290px;
+        top: 492px;
+}
+
+.bonus {
+
+        background-color: red;
+        border: black 1px solid;
+        height: 500px;
+        width: 500px;
+        position: absolute;
+        border-radius: 300px;
+        position: absolute;
+        top: 88px;
+        left: 480px;
+}
